@@ -56,7 +56,7 @@
             <audio controls>
                 <source src="album1_song1.mp3" type="audio/mp3">
                 Your browser does not support the audio tag.
-            </audio>
+     i       </audio>
             <a class="download-btn" href="album1_song1.mp3" download>⬇️ Download</a>
         </div>
         <div class="album">
